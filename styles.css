@@ -1,0 +1,17 @@
+.container {
+    margin: 50px auto;
+    max-width: 600px;
+  }
+  
+  .product {
+    margin-bottom: 10px;
+  }
+  
+  .cart-item {
+    margin-bottom: 10px;
+  }
+  
+  .clear-cart {
+    margin-top: 20px;
+  }
+  
